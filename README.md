@@ -16,3 +16,8 @@ This project is a simple CLIP game built with Node.js.
 
 To install the necessary packages and start the game, follow these steps:
 [![asciicast](https://asciinema.org/a/N93S5fIv6bNqjNNhI4NGXiOsc.svg)](https://asciinema.org/a/N93S5fIv6bNqjNNhI4NGXiOsc)
+
+# Calc Game
+
+Welcome to the Calc Game! This is a simple arithmetic game where you have to solve math problems.
+[![asciicast](https://asciinema.org/a/mwPqgL2Mxeza9PV68sECzI7Pu.svg)](https://asciinema.org/a/mwPqgL2Mxeza9PV68sECzI7Pu)
