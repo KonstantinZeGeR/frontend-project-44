@@ -6,4 +6,3 @@ export const greetUser = () => {
   console.log("Hello, " + userName + "!");
   return userName;
 };
-
