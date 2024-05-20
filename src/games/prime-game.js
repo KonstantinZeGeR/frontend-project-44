@@ -16,4 +16,4 @@ const generateRound = () => {
   return [question.toString(), answer];
 };
 
-export { description, generateRound }
+export { description, generateRound };
