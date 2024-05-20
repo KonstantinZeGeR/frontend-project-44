@@ -4,14 +4,12 @@ const description = 'Find the greatest common divisor of given numbers.';
 
 const gcd = (a, b) => {
   let x = a;
-  let y = b;
-  
+  let y = b;  
   while (y !== 0) {
     const temp = y;
     y = x % y;
     x = temp;
-  }
-  
+  }  
   return x;
 };
 
